@@ -68,5 +68,3 @@ The user agents are the ones that are able to be modified and changed by the use
 ## 🚀 Let's build something amazing!
 
 Ready to jump in? We are!
-
-[Add links to your repo, etc here]
